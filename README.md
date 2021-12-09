@@ -31,6 +31,9 @@ Estos requisitos son debido a que nuestra cuenta es gratuita, si se paga una lic
 
 En esta captura se esta analizando el video hay que espera.El video se subirá y nosostros tendremos que esoerar de 1 a 5 minutos
 ![Captura de pantalla (1491) png](https://user-images.githubusercontent.com/71051834/145313000-1bd5e614-82dc-4136-b0e0-68728a975aff.jpg)
+Esta es la ultima captura, aqui vemos que personaje en 3D copia los movimientos del video que tiene como base.
+![Captura de pantalla (1497)](https://user-images.githubusercontent.com/71051834/145315377-c3286b6c-202c-467a-af56-817ecb2a9f36.png)
+
 
 En esta ya esta creando la animación.
 ![Captura de pantalla (1493) png](https://user-images.githubusercontent.com/71051834/145313017-10c3c1d1-2148-4427-91a4-0f606d9f9c09.jpg)
