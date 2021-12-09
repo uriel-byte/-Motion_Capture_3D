@@ -20,6 +20,13 @@ En esta parte esocgemos la Default
 esta pagina es para que se suba el video y de ahi a esperar que se suba.
 ![Captura de pantalla (1490) png](https://user-images.githubusercontent.com/71051834/145311810-1d1c76d0-5db5-4479-8c1c-1cb466cd8563.jpg)
 
+En esta captura se esta analizando el video hay que espera.
+![Captura de pantalla (1491) png](https://user-images.githubusercontent.com/71051834/145313000-1bd5e614-82dc-4136-b0e0-68728a975aff.jpg)
 
+En esta ya esta creando la animación.
+![Captura de pantalla (1493) png](https://user-images.githubusercontent.com/71051834/145313017-10c3c1d1-2148-4427-91a4-0f606d9f9c09.jpg)
+
+En esta ya esta cargando la animación
+![Captura de pantalla (1494) png](https://user-images.githubusercontent.com/71051834/145313044-27e94765-547b-4d0a-a17f-9a983a742e00.jpg)
 
 
