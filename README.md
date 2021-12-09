@@ -19,9 +19,13 @@ En esta parte esocgemos la Default
 
 esta pagina es para que se suba el video y de ahi a esperar que se suba.
 En esta pestaña elegiremos el video el cual apartir de el se creara la captura de movimiento. Para esto el video tiene que cumplir ciertos requisitos:
+
 •	El video debe durar menos de 10 segundos
+
 •	El nombre del video debe tener menos de 30 caracteres
+
 •	De preferencia el video debe estar en formato mp4
+
 Estos requisitos son debido a que nuestra cuenta es gratuita, si se paga una licencia cambiaran los requisitos a mejora ya que el video podrá tardar mas
 ![Captura de pantalla (1490) png](https://user-images.githubusercontent.com/71051834/145311810-1d1c76d0-5db5-4479-8c1c-1cb466cd8563.jpg)
 
