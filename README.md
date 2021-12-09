@@ -29,7 +29,7 @@ En esta pestaña elegiremos el video el cual apartir de el se creara la captura 
 Estos requisitos son debido a que nuestra cuenta es gratuita, si se paga una licencia cambiaran los requisitos a mejora ya que el video podrá tardar mas
 ![Captura de pantalla (1490) png](https://user-images.githubusercontent.com/71051834/145311810-1d1c76d0-5db5-4479-8c1c-1cb466cd8563.jpg)
 
-En esta captura se esta analizando el video hay que espera.
+En esta captura se esta analizando el video hay que espera.El video se subirá y nosostros tendremos que esoerar de 1 a 5 minutos
 ![Captura de pantalla (1491) png](https://user-images.githubusercontent.com/71051834/145313000-1bd5e614-82dc-4136-b0e0-68728a975aff.jpg)
 
 En esta ya esta creando la animación.
