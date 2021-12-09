@@ -10,4 +10,6 @@ A continuacion un captura de la pagina.
 ![Captura de pantalla (1485) png](https://user-images.githubusercontent.com/71051834/145311028-da6b4d16-94b1-4075-a640-c2a9ab01fa76.jpg)
 ![Captura de pantalla (1486) png](https://user-images.githubusercontent.com/71051834/145311045-a35678ab-2199-4df9-8c12-726f3a5d8cf5.jpg)
 
+![Captura de pantalla (1490) png](https://user-images.githubusercontent.com/71051834/145311810-1d1c76d0-5db5-4479-8c1c-1cb466cd8563.jpg)
+
 
