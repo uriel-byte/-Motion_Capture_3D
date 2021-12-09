@@ -1,5 +1,6 @@
 # -Motion_Capture_3D
 Animacion_3D_Tecnica_Motion_Capture
+En este enlace se encuentran los archivo y video de la animación https://drive.google.com/file/d/1LI3b_MaBcuSpdvGNr2AMH0Fg9_f24Bw3/view?usp=sharing
 
 la tecnica de Motion Capture o captura de movimientos es una técnica que se utiliza para grabar movimiento en personas. Esta información de acciones y movimientos, es utilizada para poder aplicarla como animación a personajes digitales modelados en 3D.
 
